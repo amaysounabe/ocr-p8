@@ -2,10 +2,11 @@
 
 ## Description
 Taille du fichier **CSV** : **428 Ko** <br>
-Les données utilisées au cours de ce projet ont déjà été traitées dans un projet antérieur. Les étapes de nettoyage ont donc déjà été réalisées au cours du projet "Classification automatique de biens" (lien [ici](https://github.com/amaysounabe/ocr-p6))
+
+*Les données utilisées au cours de ce projet ont déjà été traitées dans un projet antérieur. Les étapes de nettoyage ont donc déjà été réalisées au cours du projet "Classification automatique de biens" (lien [ici](https://github.com/amaysounabe/ocr-p6))*
 
 *Ce projet contenait initialement une partie consistant à enrichir un dashboard Streamlit déjà créé dans un projet antérieur. Le dashboard est donc dans sa version définitive dans le projet "Implémentation d'un modèle de Scoring" (lien [ici](https://github.com/amaysounabe/ocr-p7)).
-Cependant, les slides de présentation n'ont pas été modifiées et incluent toujours des éléments relatifs à cette ancienne partie du projet.
+Cependant, les slides de présentation n'ont pas été modifiées et incluent toujours des éléments relatifs à cette ancienne partie du projet.*
 
 ## Procédure
 - Modélisation avec un modèle standard : Universal Sentence Encoder
